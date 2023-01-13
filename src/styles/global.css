@@ -1,0 +1,11 @@
+*{
+    width: calc(100% - 10.8rem);
+    height: auto;
+    padding: 0rem 5.4rem 0rem 5.4rem;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.01rem;
+    color: #fff;
+
+    background-color: #0e0e0e;;
+}
