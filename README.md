@@ -1,1 +1,2 @@
 # Rocket-NFTS
+Programming challenge proposed by Rocketseat, with some changes and made in different technologies. Aiming to test my knowledge and improve the proposed challenge, I decided to do the whole project in ReactJs.
