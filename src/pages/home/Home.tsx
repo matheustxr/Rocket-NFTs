@@ -1,7 +1,8 @@
 import './Home.css'
 
-import {Header} from './header/Header'
-import {Main1} from './main/index'
+import {Header} from './components/header/Header'
+import {Main1} from './components/main1/index'
+import {Galery} from './components/galery/index'
 
 
 function Home() {
@@ -16,6 +17,9 @@ function Home() {
           <Main1/>
         }
         
+        {
+          <Galery/>
+        }
       </div>
       
     </div>
