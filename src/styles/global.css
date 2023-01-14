@@ -1,11 +1,18 @@
-*{
-    width: calc(100% - 10.8rem);
+html{
+    width: 100%;
     height: auto;
-    padding: 0rem 5.4rem 0rem 5.4rem;
+    margin: 0%;
 
     font-family: 'Montserrat', sans-serif;
     font-size: 1.01rem;
     color: #fff;
 
+    overflow-x: hidden;
     background-color: #0e0e0e;;
 }
+
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
