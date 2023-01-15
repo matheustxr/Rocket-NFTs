@@ -1,0 +1,20 @@
+.galery{ 
+    margin-top: 6.25rem;
+    width: 100%;
+}
+
+.galery img {
+    border: solid 2px #8d8d8d;
+}
+
+.galery #galery1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3.75rem;
+}
+
+.galery #galery2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3.75rem;
+}
