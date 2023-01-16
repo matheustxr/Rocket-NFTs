@@ -5,6 +5,7 @@ import {Main1} from './components/main1/index'
 import {Galery} from './components/galery/index'
 import {Main2} from './components/main2/index'
 import {Main3} from './components/main3/index'
+import {Main4} from './components/main4/index'
 
 
 function Home() {
@@ -31,6 +32,10 @@ function Home() {
 
       {
         <Main3/>
+      }
+
+      {
+        <Main4/>
       }
 
     </div>
